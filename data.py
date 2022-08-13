@@ -30,7 +30,7 @@ Welcome to {}
 
 You can use me to generate pyrogram (even version 2) and telethon string session. Use below buttons to learn more !
 
-By @Aron_is_bot
+By @gobloklahnomer
 
     """
 
