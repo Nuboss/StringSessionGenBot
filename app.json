@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/i-am-pro-king/Alone-String",
+  "repository": "https://github.com/Nuboss/StringSessionGenBot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
