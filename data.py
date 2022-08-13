@@ -48,7 +48,7 @@ By @gobloklahnomer
     ABOUT = """
 **About This Bot** 
 
-Telegram Bot to generate Pyrogram and Telethon string session by @StarkBots
+Telegram Bot to generate Pyrogram and Telethon string session by @gobloklahnomer
 
 Music bot : [ϟ ᴀŔᴏN](https://t.me/IndoPlayer_bot)
 
