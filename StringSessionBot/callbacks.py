@@ -69,6 +69,6 @@ async def _callbacks(bot: Client, callback_query: CallbackQuery):
 
 
 ERROR_MESSAGE = "Oops! An exception occurred! \n\n**Error** : {} " \
-            "\n\nPlease visit @ALONE_MUSIC_ADD_ICT if this message doesn't contain any " \
+            "\n\nPlease visit @gobloklahnomer if this message doesn't contain any " \
             "sensitive information and you if want to report this as " \
             "this error message is not being logged by us!"
