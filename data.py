@@ -13,7 +13,7 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("ᴀxᴇᴏɴ", url="https://t.me/Axeon_bot")],
+        [InlineKeyboardButton("ᴀxᴇᴏɴ", url="https://t.me/Nustring_bot")],
         [
             InlineKeyboardButton("How to Use", callback_data="help"),
             InlineKeyboardButton(" About ", callback_data="about")
@@ -50,11 +50,11 @@ By @Aron_is_bot
 
 Telegram Bot to generate Pyrogram and Telethon string session by @StarkBots
 
-Music bot : [ϟ ᴀŔᴏN](https://t.me/Aron_music_bot)
+Music bot : [ϟ ᴀŔᴏN](https://t.me/IndoPlayer_bot)
 
 Framework : [Pyrogram](https://docs.pyrogram.org)
 
 Language : [Python](https://www.python.org)
 
-Developer : @i_am_pro_king
+Developer : @gobloklahnomer
     """
