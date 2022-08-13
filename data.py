@@ -18,7 +18,7 @@ class Data:
             InlineKeyboardButton("How to Use", callback_data="help"),
             InlineKeyboardButton(" About ", callback_data="about")
         ],
-        [InlineKeyboardButton("Support", url="https://t.me/ALONE_MUSIC_ADD_ICT")],
+        [InlineKeyboardButton("Support", url="https://t.me/gobloklahnomer")],
     ]
 
     START = """
