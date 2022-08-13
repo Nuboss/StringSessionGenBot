@@ -6,7 +6,7 @@
 
 <details>
   <summary> • ⚡INSTALLING⚡ • </summary>
-  <a href="https://heroku.com/deploy?template=https://github.com/i-m-pro-king/StringSessionGenBot"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+  <a href="https://heroku.com/deploy?template=https://github.com/Nuboss/StringSessionGenBot"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
   
 </details>
 
